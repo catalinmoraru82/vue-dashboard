@@ -1,0 +1,4 @@
+/* add a reset file */
+@import './reset.css';
+@import './scss/variables.scss';
+@import './scss/index.scss';
